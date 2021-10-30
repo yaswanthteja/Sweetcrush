@@ -22,7 +22,7 @@ you can play the game from below
 
 ## Screenshots
 
-![App Screenshot](Screenshot 2021-10-28 220148.png)
+![App Screenshot](https://github.com/yaswanthteja/Sweetcrush/blob/main/Screenshot%202021-10-28%20220148.png)
 
 
 ## Demo
