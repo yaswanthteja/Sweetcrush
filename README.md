@@ -26,14 +26,9 @@ you can play the game from below
 
 
 ## Demo
+[![Sweetcrush](https://img.youtube.com/vi/https://Rwj6bHrmT5M/0.jpg)](https://www.youtube.com/watch?v=Rwj6bHrmT5M)
 
-ifdef::env-github[]
-image:https://img.youtube.com/vi/Rwj6bHrmT5M/maxresdefault.jpg[link=https://youtu.be/Rwj6bHrmT5M]
-endif::[]
 
-ifndef::env-github[]
-video::Rwj6bHrmT5M[youtube]
-endif::[]
 
 
 
