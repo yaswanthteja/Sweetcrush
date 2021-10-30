@@ -33,4 +33,4 @@ you can play the game from below
 
 
 ## Click here to Play
-[a link] (https://yashtuf.itch.io/sweetcrush)
+Click [here]https://yashtuf.itch.io/sweetcrush) to play.
