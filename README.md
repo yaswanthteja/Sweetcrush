@@ -26,7 +26,7 @@ you can play the game from below
 
 
 ## Demo
-[![Youtube Video link](https://youtu.be/Rwj6bHrmT5M)] click to see the demo
+[![Video ](https://youtu.be/Rwj6bHrmT5M)] click to see the demo
 
 
 
