@@ -22,7 +22,7 @@ you can play the game from below
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshot 2021-10-28 220148.png)
 
 
 ## Demo
