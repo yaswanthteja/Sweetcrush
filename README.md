@@ -26,7 +26,14 @@ you can play the game from below
 
 
 ## Demo
-[![Video ](https://youtu.be/Rwj6bHrmT5M)] click to see the demo
+
+ifdef::env-github[]
+image:https://img.youtube.com/vi/Rwj6bHrmT5M/maxresdefault.jpg[link=https://youtu.be/Rwj6bHrmT5M]
+endif::[]
+
+ifndef::env-github[]
+video::Rwj6bHrmT5M[youtube]
+endif::[]
 
 
 
