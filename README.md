@@ -26,7 +26,7 @@ you can play the game from below
 
 
 ## Demo
-[![Alt text for your video](https://img.youtu.be/Rwj6bHrmT5M/0.jpg)](https://youtu.be/Rwj6bHrmT5M)
+[![Video](https://img.youtu.be/Rwj6bHrmT5M/maxresdefault.jpg)](https://youtu.be/Rwj6bHrmT5M)]
 
 
 
