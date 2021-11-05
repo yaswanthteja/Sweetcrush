@@ -26,9 +26,9 @@ you can play the game from below
 
 
 ## Demo
-[![Sweetcrush](https://img.youtube.com/vi/https://Rwj6bHrmT5M/0.jpg)](https://www.youtube.com/watch?v=Rwj6bHrmT5M)
 
 
+[![Sweetcrush](https://img.youtube.com/vi/Rwj6bHrmT5M/0.jpg)](https://www.youtube.com/watch?v=Rwj6bHrmT5M)
 
 
 
