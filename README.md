@@ -36,3 +36,4 @@ you can play the game from below
 
 ## Click here to Play
 [Click to play!](https://yashtuf.itch.io/sweetcrush) 
+[Click to play](https://sweetcrush.vercel.app/)
